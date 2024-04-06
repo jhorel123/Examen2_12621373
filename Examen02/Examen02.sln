@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Tienda", "Api.Tienda\Api.Tienda.csproj", "{0F4162C9-A2C1-44F8-A64E-29C2095898E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiMicroServicios", "ApiMicroServicios", "{C2062F71-D120-4D3E-841F-5E6A01842D89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tienda.Shared", "tienda.Shared", "{9A2A35F5-1AE3-41C4-A413-B1CE44296718}"
+	ProjectSection(SolutionItems) = preProject
+		Api.Tienda\Shared.cs = Api.Tienda\Shared.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4162C9-A2C1-44F8-A64E-29C2095898E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4162C9-A2C1-44F8-A64E-29C2095898E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4162C9-A2C1-44F8-A64E-29C2095898E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4162C9-A2C1-44F8-A64E-29C2095898E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F4162C9-A2C1-44F8-A64E-29C2095898E3} = {C2062F71-D120-4D3E-841F-5E6A01842D89}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9005D92A-7F07-4941-AFE5-7026B95247C2}
+	EndGlobalSection
+EndGlobal
