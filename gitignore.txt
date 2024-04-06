@@ -1,0 +1,15 @@
+.vs/
+**/obj/
+**/bin/
+*.suo
+*.user
+*.sln.cache
+
+# MAUI Files basura
+*.vsidx
+*.assets.cache
+*.AssemblyReferences.cache
+*.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
+*.GeneratedMSBuildEditorConfig.editorconfig
