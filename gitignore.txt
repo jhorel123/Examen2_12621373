@@ -1,3 +1,4 @@
+# Visual Studio 2022 files basura 
 .vs/
 **/obj/
 **/bin/

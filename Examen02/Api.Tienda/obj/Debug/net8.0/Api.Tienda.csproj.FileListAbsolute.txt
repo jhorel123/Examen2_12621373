@@ -1,6 +1,0 @@
-E:\modalida de grado IV\nuevastecnologias\colingserverles1\Examen02\Api.Tienda\obj\Debug\net8.0\Api.Tienda.csproj.AssemblyReference.cache
-E:\modalida de grado IV\nuevastecnologias\colingserverles1\Examen02\Api.Tienda\obj\Debug\net8.0\Api.Tienda.GeneratedMSBuildEditorConfig.editorconfig
-E:\modalida de grado IV\nuevastecnologias\colingserverles1\Examen02\Api.Tienda\obj\Debug\net8.0\Api.Tienda.AssemblyInfoInputs.cache
-E:\modalida de grado IV\nuevastecnologias\colingserverles1\Examen02\Api.Tienda\obj\Debug\net8.0\Api.Tienda.AssemblyInfo.cs
-E:\modalida de grado IV\nuevastecnologias\colingserverles1\Examen02\Api.Tienda\obj\Debug\net8.0\Api.Tienda.csproj.CoreCompileInputs.cache
-E:\modalida de grado IV\nuevastecnologias\colingserverles1\Examen02\Api.Tienda\obj\Debug\net8.0\Api.Tienda.sourcelink.json
