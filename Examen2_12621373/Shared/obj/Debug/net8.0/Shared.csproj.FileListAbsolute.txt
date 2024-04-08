@@ -1,0 +1,12 @@
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\bin\Debug\net8.0\Shared.dll
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\bin\Debug\net8.0\Shared.pdb
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\Shared.sourcelink.json
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\Shared.dll
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\Shared.pdb
+D:\NT JhorelAngelo\Examen2_12621373\Examen2_12621373\Shared\obj\Debug\net8.0\ref\Shared.dll
